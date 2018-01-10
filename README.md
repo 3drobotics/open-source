@@ -1,0 +1,1 @@
+load these files to setup a new sd card on your solo and controller
